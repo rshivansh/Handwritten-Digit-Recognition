@@ -1,29 +1,4 @@
 
-Skip to content
-
-    Pull requests
-    Issues
-    Marketplace
-    Explore
-
-    @rshivansh
-
-765
-6,958
-
-    3,584
-
-mnielsen/neural-networks-and-deep-learning
-Code
-Pull requests 0
-Insights
-neural-networks-and-deep-learning/src/network.py
-f375e4a on Aug 6, 2015
-@mnielsen mnielsen Renaming spv to sp
-@mnielsen
-@drjerry
-@CesiumLifeJacket
-142 lines (128 sloc) 6.29 KB
 """
 network.py
 ~~~~~~~~~~
@@ -165,18 +140,4 @@ def sigmoid_prime(z):
     """Derivative of the sigmoid function."""
     return sigmoid(z)*(1-sigmoid(z))
 
-    © 2018 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Status
-    Help
-
-    Contact GitHub
-    API
-    Training
-    Shop
-    Blog
-    About
-
-Press h to open a hovercard with more details.
+ 
